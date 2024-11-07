@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-Software Engineer at Mirketa Inc(2024 Batch<br>
-I'm currently learning MERN FullStack Development<br>
+Software Engineer at Mirketa Inc<br>
+doing FullStack Development and DSA<br>
 
 
 
