@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Currently Pursuing B.tech in Computer Science(2024 Batch)<br>
+Software Engineer at Mirketa Inc(2024 Batch<br>
 I'm currently learning MERN FullStack Development<br>
 
 
